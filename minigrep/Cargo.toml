@@ -1,0 +1,7 @@
+[package]
+name = "minigrep"
+version = "0.1.0"
+authors = ["Zimeng Pan <zmpan@umich.edu>"]
+edition = "2018"
+
+[dependencies]
